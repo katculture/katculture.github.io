@@ -10,22 +10,23 @@ Kat Culture is a multimedia artist creating acts of radical play, colorful abstr
 ## Performance Art
 
 # Our Sophisticated Denial 
-_Performance, Black Friday 2017
+_Performance, Black Friday 2017_
 Artists' Television Access Gallery
 San Francisco, CA
 
-# WORKING TITLE
-_Performance, September 30, 2017
+# Remembering Religion: The American South and Iranian North 
+_Performance, September 30, 2017_
 Bay Area Video Coalition
 San Francisco, CA
 
 # This Is How It Happens
-_Performance, March 17, 2017
+_Performance, March 17, 2017_
+As part of the Mel Ziegler Flag Exchange Performance Series
 Walter and McBean Galleries, San Francisco Art Institute
 San Francisco, CA
 
 # Pry this art from my cold dead hands, you fascists
-_Performance Art Protest, Inauguration Day 2017
+_Performance Art Protest, Inauguration Day 2017_
 Market Street
 San Francisco, CA
 
