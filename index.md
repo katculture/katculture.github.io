@@ -1,4 +1,42 @@
-## Welcome to GitHub Pages
+## Kat Culture
+
+Kat Culture is a multimedia artist creating acts of radical play, colorful abstractions, and resistance. 
+
+## Portfolio
+
+----------------------------------
+
+
+## Performance Art
+
+# Our Sophisticated Denial 
+_Performance, Black Friday 2017
+Artists' Television Access Gallery
+San Francisco, CA
+
+# WORKING TITLE
+_Performance, September 30, 2017
+Bay Area Video Coalition
+San Francisco, CA
+
+# This Is How It Happens
+_Performance, March 17, 2017
+Walter and McBean Galleries, San Francisco Art Institute
+San Francisco, CA
+
+# Pry this art from my cold dead hands, you fascists
+_Performance Art Protest, Inauguration Day 2017
+Market Street
+San Francisco, CA
+
+----------------------------------
+
+## Visual Art
+
+# Illustrations for [_A Quick Guide To Easing Pain_](https://www.amazon.com/Quick-Guide-Easing-Pain-Workplace/dp/1548438022/ref=sr_1_1?ie=UTF8&qid=1511815287&sr=8-1&keywords=shara+ogin)
+
+# Illustrations for [_Simple Things_](https://chicagoliterati.com/2017/04/28/simple-things-by-elizeya-quate-featuring-art-by-kay-culture/) 
+
 
 You can use the [editor on GitHub](https://github.com/katculture/katculture.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
